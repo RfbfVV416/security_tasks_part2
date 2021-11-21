@@ -13,8 +13,8 @@ Let's create a folder with some number of files.
 Some of them will be executable.
 ![image](https://user-images.githubusercontent.com/62764458/142764332-a623a0e2-453b-47ab-9214-93550456ae19.png)
 
-Before the injection we can observe the ```Target.exe``` via CFF Explorer
-and pay attention to its' size and sections.
+We can observe the ```Target.exe``` via CFF Explorer
+and pay attention to its' size and sections. </br>
 ![image](https://user-images.githubusercontent.com/62764458/142765121-0c65510c-4484-4d75-bf93-9851854d8afc.png)
 ![image](https://user-images.githubusercontent.com/62764458/142765164-4328483e-365f-4c69-a5fa-ebee70679f6e.png)
 
